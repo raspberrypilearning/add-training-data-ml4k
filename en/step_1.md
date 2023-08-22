@@ -19,19 +19,25 @@ Repeat this process a number of times until you have collected a bank of quotes 
 
 
 ## Adding training audio
+<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
+<strong>Remember:</strong> 
 
-1. Inside the  class, click `Add Example`. 
+8 is the very lowest number of samples each class can have to create a working model. If you have less than this in any class, you won't be able to train the model.
+
+You should aim for **around 10-15 samples in each class**, but again - the more **training data** you add to your model at this stage, the more accurate it will be at recognising the different sounds.
+
+</p>
+
+Inside the class you're adding data to, click `Add Example`. 
 
 ![Button which reads '+ add example'](images/add_example.png)
+---
 
-2. Record a sample of sound by clicking the microphone. 
-**Note:** You can only record a maximum of 2 seconds in each sample.
+Record a sample of sound by clicking the microphone. Remember, **you can only record a maximum of 2 seconds** in each sample.
 
 ![A popup which says Add example.Record an example of 'background noise', with a small blue icon showing a microphone](images/add_background_noise.png)
 
-**Note:** 8 is the **very lowest** number of samples each class can have to create a working model. If you have less than this in any class, you won't be able to train the model.
-
-You should aim for **around 10-15 samples in each class**, but again - the more **training data** you add to your model at this stage, the more accurate it will be at recognising the different sounds.
+---
 
 When you have enough samples in each class, select **Back to project**.
 ![](images/back_to_project.png)
