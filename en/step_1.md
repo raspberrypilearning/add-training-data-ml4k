@@ -31,6 +31,7 @@ You should aim for **around 10-15 samples in each class**, but again - the more 
 Inside the class you're adding data to, click `Add Example`. 
 
 ![Button which reads '+ add example'](images/add_example.png)
+
 ---
 
 Record a sample of sound by clicking the microphone. Remember, **you can only record a maximum of 2 seconds** in each sample.
