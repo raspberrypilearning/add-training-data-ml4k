@@ -20,7 +20,7 @@ Repeat this process a number of times until you have collected a bank of quotes 
 
 ## Adding training audio
 <p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
-<strong>Remember:</strong> 
+<strong>Remember:</strong><br><br>
 
 8 is the very lowest number of samples each class can have to create a working model. If you have less than this in any class, you won't be able to train the model.
 
@@ -45,7 +45,7 @@ When you have enough samples in each class, select **Back to project**.
 
 
 <p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
-<strong>Some tips for recording your voice</strong> 
+<strong>Some tips for recording your voice</strong> <br><br>
 
 Imagine you're teaching a new word to a friend from another country. Sometimes you might say the word slowly and clearly, and other times you might say it quickly or in your everyday speaking style. This helps your friend understand the word no matter how it's said. Recording your voice for the audio classifier is similar!
 
