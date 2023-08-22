@@ -48,17 +48,17 @@ When you have enough samples in each class, select **Back to project**.
 <strong>Some tips for recording your voice</strong> <br><br>
 
 Imagine you're teaching a new word to a friend from another country. Sometimes you might say the word slowly and clearly, and other times you might say it quickly or in your everyday speaking style. This helps your friend understand the word no matter how it's said. Recording your voice for the audio classifier is similar!
-
+<br><br>
 <span style="color:#0faeb0">Find a Quiet Spot:</span> Just like finding the best place to teach your friend the new word, pick a spot where there's no background noise. This helps the computer focus on just your voice.
-
+<br><br>
 <span style="color:#0faeb0">Speak Clearly... But Not Always:</span> Start by saying "left", "right", "up", and "down" very clearly. But also, mix it up! Sometimes say them quickly, or the way you'd say them in a regular conversation. This teaches the computer to recognize the words even when they're not perfectly pronounced.
-
+<br><br>
 <span style="color:#0faeb0">Hold the Mic Steady:</span> If you're using a microphone or a phone, hold it steady, about a hand's length away from your mouth. A headset mic shouldn't touch your face when you speak. Think of it as the "listening ear" that's eager to learn!
-
+<br><br>
 <span style="color:#0faeb0">Not Too Loud, Not Too Soft:</span> Speak at a normal volume. Imagine you're chatting with your friend at the park – not too shouty, but not whispering secrets either.
-
+<br><br>
 <span style="color:#0faeb0">Do a Test Run:</span> Before diving in, record a short clip and listen to it. If you can understand yourself, the computer probably can too!
-
+<br><br>
 By giving the computer a mix of clear and everyday pronunciations, it'll be ready to understand you in the real world, no matter how you say the words. 
 
 </p>
